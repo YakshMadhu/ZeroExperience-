@@ -17,4 +17,5 @@ This platform introduces people with zero real word experience to real life proj
 * Pushes students toward endless applications, internships, personal projects, networking, and interviews.
 
 <img width="596" height="612" alt="image" src="https://github.com/user-attachments/assets/44f97bc7-f45e-4bdf-a022-a6885e4d576a" />
+
 [Description: **Ouroboros** represents a cycle that keeps feeding itself. Reflects the current entry-level job market]
