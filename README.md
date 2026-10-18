@@ -50,10 +50,39 @@ But what remains the same?**
 -loyalty
 -partciaption**
 
-Therefore every task posted should contirbute to atleast one of these nine objectives.
+Therefore, every task posted should contribute to one or more of these nine objectives.
 
+# Solution: How do I achieve the goal?
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/14b1000a-daa5-4e58-96f9-eb808630f5c9" />
 
+Core principle: judge the work, not the person.
+The big six professional experience: problem, stakeholder, requirements, deliverable, accountability, and impact.
 
-
+* Account types: uploader and solver.
+* Uploader posts tasks; Solver submit solutions.
+* All active tasks visible to everyone.
+* Randomize task order every hour.
+* Uploader:
+* -> selects the task categories: programming, drawing, mathematics, etc...
+* -> specify whether a task is paid or unpaid.
+* -> describe the context and desired outcome.
+* -> specify permitted tools and work environment.
+* -> Freedom to accept or reject solutions based on requirements and preferences.
+* -> If applicable, payment within one hour
+* -> Failure to do so results in a permanent ban.
+* -> Prohibits them from creating alternate accounts.
+* Solvers:
+* -> submit the solutions.
+* -> their identities, profiles, qualifications, and history remain hidden from other individuals.
+* -> can only use the tools permitted by the uploaders.
+* -> receive an anonymous display name.
+* Every submission receives an automatic timestamp.
+* Chronological order, earliest = first.
+* One solution, unlocked at a time, for the uploader to review.
+* Rejection will unlock the next solution
+* First accepted solution in the order wins.
+* The task disappears after 7 days.
+* Solutions: accepted = rewards, rejection = learning, and participation = experience.
+  
   
