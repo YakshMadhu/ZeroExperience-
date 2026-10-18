@@ -88,12 +88,14 @@ The big six professional experience: problem, stakeholder, requirements, deliver
 
 # Timeline: What should I accomplish each day?
 
+<img width="519" height="328" alt="image" src="https://github.com/user-attachments/assets/22372276-6021-4038-b707-139105634d80" />
+
 * Day 1: Basic webpage, using localhost.
 * Day 2: Account types, registration, and login verification.
 * Day 3: Task posting, with categories, description, objectives, deadlines, points, and maximum participants. 
-* Day 4: Market place, display acitve tasks, randomize their order every hour, and expire tasks after deadline. 
+* Day 4: Marketplace, display active tasks, randomize their order every hour, and expire tasks after the deadline. 
 * Day 5: Anonymous participation, hide profiles and histories, prevent direct contact, and submission timestamps
-* Day 6: Chronological solutions, acceptence, rejection, mandatory feedback, and unlocking. 
+* Day 6: Chronological solutions, acceptance, rejection, mandatory feedback, and unlocking. 
 * Day 7: activity logs, edge cases, and final touches.
 
 * Target: 7 days
