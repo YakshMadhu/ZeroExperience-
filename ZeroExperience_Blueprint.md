@@ -90,15 +90,25 @@ The big six professional experience: problem, stakeholder, requirements, deliver
 
 <img width="519" height="328" alt="image" src="https://github.com/user-attachments/assets/22372276-6021-4038-b707-139105634d80" />
 
-* Day 1: Basic webpage, using localhost.
-* Day 2: Account types, registration, and login verification.
-* Day 3: Task posting, with categories, description, objectives, deadlines, points, and maximum participants. 
-* Day 4: Marketplace, display active tasks, randomize their order every hour, and expire tasks after the deadline. 
-* Day 5: Anonymous participation, hide profiles and histories, prevent direct contact, and submission timestamps
-* Day 6: Chronological solutions, acceptance, rejection, mandatory feedback, and unlocking. 
-* Day 7: activity logs, edge cases, and final touches.
+* **Day 1:** Basic webpage, using localhost.
+* **Day 2:** Account types, registration, and login verification.
+* **Day 3:** Task posting, with categories, description, objectives, deadlines, points, and maximum participants. 
+* **Day 4:** Marketplace, display active tasks, randomize their order every hour, and expire tasks after the deadline. 
+* **Day 5:** Anonymous participation, hide profiles and histories, prevent direct contact, and submission timestamps
+* **Day 6:** Chronological solutions, acceptance, rejection, mandatory feedback, and unlocking. 
+* **Day 7:** Activity logs, edge cases, and final touches.
 
 * Target: 7 days
 * Actual: ???
+
+# Programming languages and libraries: What tools am I using?
+
+<img width="1424" height="726" alt="image" src="https://github.com/user-attachments/assets/acf5d0fc-9ba7-4d8a-8335-89c4165889c9" />
+
+* **Python:** Backend, _**Advantage:**_ productivity. 
+* **Rust:** Validation, _**Advantage:**_ safety.
+* **Go:** Scheduling, _**Advantage:**_ concurrency. 
+* **HTML/CSS/JavaScript:** User interface, _**Advantage:**_ structure/styling/interactivity. 
+* **SQLite:** Data, _**Advantage:**_ querying. 
 
 # Future: Next?
